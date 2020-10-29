@@ -37,7 +37,7 @@ h = [0 for x in range(n_vertices)]
 J = dict( (tuple(neighbour), -10) for neighbour in neighbours )
 
 # 3. Instantiate solver
-sampler = EmbeddingComposite(DWaveSampler(token='DEV-18ba0e320e36821c4a65edc0ead7b78bbb8af46f'))
+sampler = EmbeddingComposite(DWaveSampler(token=''))
 
 # 4. Sample problem
 
