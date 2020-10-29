@@ -6,4 +6,4 @@ quantumCoinFlipCSP.py uses a Hybrid Sampler (Kerberos), and also uses a visualiz
 
 Utilities.py was taken from D-Wave's GitHub (Map Coloring Toy Example)
 
-![AndroidIMG] (/graph.png)
+![AndroidIMG](/graph.png)
